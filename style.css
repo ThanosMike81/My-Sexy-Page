@@ -172,10 +172,6 @@ header {
   background-size: cover;
 }
 
-.gallery-paintings .gallery-hero {
-  background-color: red;
-}
-
 .gallery-celebrities .gallery-hero {
   background-image: url("Images/Celebrities/img006.jpg");
   background-size: cover;
